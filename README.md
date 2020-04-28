@@ -20,4 +20,4 @@ JS i got more comprehension of functions structures and how it works.</br>
 https://rafaolidev.github.io/medicenter/medicentermockup/index.html
 
 # Copyright 
-# I dont Own the template i had used it for study purpose the owners are the QuanticaLabs.
+# I dont Own the template i have used it for study purpose the owners are the QuanticaLabs.
