@@ -6,7 +6,7 @@ site mockup made in the B7Web Front-end Course.
 Make a mockup site, using the technologies that we have learned on the course.
 
 # technologies Used
-CSS - Fully responsive site, using flexbox.
+CSS - Fully responsive site, using flexbox.</br>
 HTML - Make Fully use of the Semantic HTML.
 JavaScrip - Used functions to open the mobile menu.
 
