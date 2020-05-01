@@ -1,7 +1,7 @@
 # medicenter
 site mockup made in the B7Web Front-end Course.
 
-# Obejctive
+# Objective
 
 Make a mockup site, using the technologies that we have learned on the course.
 
